@@ -1,0 +1,51 @@
+body{
+    background-image: url(https://cdn.wallpapersafari.com/16/12/LsZyCj.jpg);
+    background-size: cover;
+    font-family: 'Averia Serif Libre', cursive;
+}
+#box{
+    color: whitesmoke;
+    display: block;
+    background-color: lightslategray;
+    text-align: center;
+    width: 400px;
+    height: 150px;
+    font-size: xx-large;
+    transform: translateX(750px);
+    border-radius: 10px;
+}
+#underbox{
+    display: block;
+    background-color: lightslategray;
+    text-align: center;
+    width: 900px;
+    height: 700px;
+    transform: translateX(480px);
+    border-radius: 30px;
+}
+#intro{
+    padding: 10px;
+    color: black;
+    font-size: xx-large;
+}
+#fill{
+    color: whitesmoke;
+}
+#underunderbox{
+    width: 500px;
+    text-align: center;
+    transform: translateX(220px);
+}
+img{
+    height: 350px;
+    width: auto;
+    transform: translateX(20px);
+}
+#promptshow{
+    display: block;
+    color: white;
+    padding: 50px;
+}
+button{
+    transform: translateX(25px);
+}
